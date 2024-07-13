@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: krscitizen
-        image: deepikkaa20/krscitizen:latest # Replace with your Docker image name
+        image: vamsikrishna765/krscitizen:latest # Replace with your Docker image name
         imagePullPolicy: IfNotPresent  
         
         ports:
